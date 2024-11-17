@@ -1,6 +1,4 @@
 
-## SOBRE MI
+# JORGE MAÑEZ
 
-Esta página tiene informacion sobre mi
-
-# JORGE
+### Soy estudiante de DAW en el CPIFP Los Enlaces
