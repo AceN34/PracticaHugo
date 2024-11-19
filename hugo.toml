@@ -39,3 +39,8 @@ name = "Programación"
 pre = "<span data-feather='terminal'></span>"
 url = "/programacion/"
 weight = 5
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true

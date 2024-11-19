@@ -44,17 +44,17 @@ Y se verá
 **Texto en negrita** texto normal
 {{<youtube _PPWWRV6gbA>}}
 
-```mermaid
+{{< mermaid >}}
 graph BT
 Navegador --Llama--> B[Servidor Web]
 C --> D
 B --> E
 D --> E
-```
+{{< /mermaid >}}
 
-```mermaid
+{{< mermaid >}}
 graph LR
 Estudiante --> Estudiar{Decision}
 Estudiar -->|Si| Aprobar
 Estudiar -->|No| Suspender
-```
+{{< /mermaid >}}

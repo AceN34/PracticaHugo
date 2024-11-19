@@ -7,6 +7,13 @@
     {{- .Scratch.Set "avatarImgSrc" $avatarImgSrc -}}
 
     {{- partial "head.html" . -}}
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+        <script>
+            mermaid.initialize({ startOnLoad: true });
+        </script>
+    </head>
+
     <body>
         <script>
             // Immediately set theme on page load
