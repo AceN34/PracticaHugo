@@ -8,3 +8,6 @@ draft = false
 
 ![Declaracion Números PHP](DeclaracionNumerosPHP.png)
 Así se declaran los números binario, octal y hexadecimal en php (0b, 0o, 0x)
+
+![Transformar Número Aleatorio](NumeroAleatorioPHPTransformar.png)
+Y así podemos transformar un número aleatorio en PHP
