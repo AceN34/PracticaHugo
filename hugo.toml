@@ -3,3 +3,39 @@ languageCode = 'en-us'
 title = 'Web de Jorge'
 
 theme = "gokarna-hugo-main"
+
+[params]
+avatarAltText = "avatar"
+avatarSize = "size-m"
+avatarURL = "/images/yo.jpg"
+
+[menu]
+[[menu.main]]
+name = "Home"
+pre = "<span data-feather='home'></span>"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Markdown"
+pre = "<span data-feather='code'></span>"
+url = "/markdown/"
+weight = 2
+
+[[menu.main]]
+name = "Intereses"
+pre = "<span data-feather='coffee'></span>"
+url = "/intereses/"
+weight = 3
+
+[[menu.main]]
+name = "TV"
+pre = "<span data-feather='tag'></span>"
+url = "/tv/"
+weight = 4
+
+[[menu.main]]
+name = "Programación"
+pre = "<span data-feather='terminal'></span>"
+url = "/programacion/"
+weight = 5
