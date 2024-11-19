@@ -20,7 +20,7 @@
       <link>http://localhost:1313/php/</link>
       <pubDate>Fri, 04 Oct 2024 10:05:33 +0200</pubDate>
       <guid>http://localhost:1313/php/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;declarar-números-php&#34;&gt;Declarar números PHP&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;DeclaracionNumerosPHP.png&#34; alt=&#34;Declaracion Números PHP&#34;&gt;&#xA;Así se declaran los números binario, octal y hexadecimal en php (0b, 0o, 0x)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
