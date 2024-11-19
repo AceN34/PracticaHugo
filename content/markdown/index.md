@@ -1,7 +1,6 @@
 +++
 title = 'Markdown'
 type = "post"
-date = 2024-10-04T13:24:33+02:00
 draft = false
 +++
 ## Edición básica
