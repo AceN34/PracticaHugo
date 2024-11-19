@@ -30,14 +30,14 @@ weight = 3
 
 [[menu.main]]
 name = "TV"
-pre = "<span data-feather='tag'></span>"
+pre = "<span data-feather='tv'></span>"
 url = "/tv/"
 weight = 4
 
 [[menu.main]]
-name = "Programación"
+name = "PHP"
 pre = "<span data-feather='terminal'></span>"
-url = "/programacion/"
+url = "/php/"
 weight = 5
 
 [markup]
