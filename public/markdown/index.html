@@ -97,7 +97,7 @@
             </div>
             
             <div class="nav-link">
-                <a href="http://localhost:1313/intereses/" aria-label="" ><span data-feather='coffee'></span> Intereses </a>
+                <a href="http://localhost:1313/videojuegos/" aria-label="" ><span data-feather='monitor'></span> Videojuegos </a>
             </div>
             
             <div class="nav-link">
@@ -136,7 +136,7 @@
                 </li>
                 
                 <li class="nav-item">
-                    <a href="http://localhost:1313/intereses/" ><span data-feather='coffee'></span> Intereses </a>
+                    <a href="http://localhost:1313/videojuegos/" ><span data-feather='monitor'></span> Videojuegos </a>
                 </li>
                 
                 <li class="nav-item">
@@ -159,40 +159,16 @@
     </nav>
 </header>
 <main id="content">
+    
+
     <div class="post container">
+
     <div class="post-header-section">
         <h1>Markdown</h1>
-
-        
-
-        
-	
-	
-	
-	
-        
-
-	
-
-	
-
-	
-          <small role="doc-subtitle"></small>
-	
-
-	
-          <p class="post-date">January 1, 0001
-           
-          </p>
-	
-
-        <ul class="post-tags">
-          
-        </ul>
     </div>
 
     <div class="post-content">
-        <h2 id="edición-básica">Edición básica</h2>
+        <h1 id="edición-básica">Edición básica</h1>
 <h3 id="titulos">Titulos</h3>
 <p>Para establecer los titulos usaré la siguiente sintaxis</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-makefile" data-lang="makefile"><span style="display:flex;"><span>
@@ -215,15 +191,9 @@
 <p>Para ver el texto en negrita escribo</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>**Texto en negrita** texto normal
 </span></span></code></pre></div><p>Y se verá</p>
-<p><strong>Texto en negrita</strong> texto normal
-
-
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/_PPWWRV6gbA?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-</p>
+<p><strong>Texto en negrita</strong> texto normal</p>
+<hr>
+<h1 id="gráficos">Gráficos</h1>
 <div class="mermaid">
     
 graph BT
@@ -241,22 +211,83 @@ Estudiar -->|Si| Aprobar
 Estudiar -->|No| Suspender
 
 </div>
+<hr>
+<h1 id="edición-extendida">Edición extendida</h1>
+<h2 id="listas">Listas</h2>
+<h4 id="lista-no-ordenada">Lista no ordenada</h4>
+<ul>
+<li>Elemento 1</li>
+<li>Elemento 2
+<ul>
+<li>Sub-elemento 2.1</li>
+<li>Sub-elemento 2.2</li>
+</ul>
+</li>
+<li>Elemento 3</li>
+</ul>
+<h4 id="lista-ordenada">Lista ordenada</h4>
+<ol>
+<li>Elemento 1</li>
+<li>Elemento 2
+<ol>
+<li>Sub-elemento 2.1</li>
+<li>Sub-elemento 2.2</li>
+</ol>
+</li>
+<li>Elemento 3</li>
+</ol>
+<hr>
+<h2 id="enlaces">Enlaces</h2>
+<p><a href="https://cpilosenlaces.com">CPIFP Los Enlaces</a></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-makefile" data-lang="makefile"><span style="display:flex;"><span><span style="color:#a6e22e">[Texto del enlace](https</span><span style="color:#f92672">:</span>//ejemplo.com)
+</span></span></code></pre></div><hr>
+<h2 id="imágenes">Imágenes</h2>
+<p><img src="pngegg.png" alt=""></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-makefile" data-lang="makefile"><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">![Texto</span> <span style="color:#960050;background-color:#1e0010">alternativo](ruta/de/la/imagen)</span>
+</span></span></code></pre></div><h3 id="tambien-se-pueden-insertar-videos-de-youtube">Tambien se pueden insertar videos de youtube</h3>
 
-        
-    </div>
-
-    <div class="prev-next">
-        
-    </div>
 
     
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/_PPWWRV6gbA?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+<hr>
+<h2 id="tablas">Tablas</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Columna 1</th>
+          <th style="text-align: left">Columna 2</th>
+          <th style="text-align: left">Columna 3</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Dato 1</td>
+          <td style="text-align: left">Dato 2</td>
+          <td style="text-align: left">Dato 3</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Dato A</td>
+          <td style="text-align: left">Dato B</td>
+          <td style="text-align: left">Dato C</td>
+      </tr>
+  </tbody>
+</table>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-makefile" data-lang="makefile"><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">|</span> <span style="color:#960050;background-color:#1e0010">Columna</span> <span style="color:#960050;background-color:#1e0010">1</span> <span style="color:#960050;background-color:#1e0010">|</span> <span style="color:#960050;background-color:#1e0010">Columna</span> <span style="color:#960050;background-color:#1e0010">2</span> <span style="color:#960050;background-color:#1e0010">|</span> <span style="color:#960050;background-color:#1e0010">Columna</span> <span style="color:#960050;background-color:#1e0010">3</span> <span style="color:#960050;background-color:#1e0010">|</span>
+</span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">|-----------|-----------|-----------|</span>
+</span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">|</span> <span style="color:#960050;background-color:#1e0010">Dato</span> <span style="color:#960050;background-color:#1e0010">1</span>    <span style="color:#960050;background-color:#1e0010">|</span> <span style="color:#960050;background-color:#1e0010">Dato</span> <span style="color:#960050;background-color:#1e0010">2</span>    <span style="color:#960050;background-color:#1e0010">|</span> <span style="color:#960050;background-color:#1e0010">Dato</span> <span style="color:#960050;background-color:#1e0010">3</span>    <span style="color:#960050;background-color:#1e0010">|</span>
+</span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">|</span> <span style="color:#960050;background-color:#1e0010">Dato</span> <span style="color:#960050;background-color:#1e0010">A</span>    <span style="color:#960050;background-color:#1e0010">|</span> <span style="color:#960050;background-color:#1e0010">Dato</span> <span style="color:#960050;background-color:#1e0010">B</span>    <span style="color:#960050;background-color:#1e0010">|</span> <span style="color:#960050;background-color:#1e0010">Dato</span> <span style="color:#960050;background-color:#1e0010">C</span>    <span style="color:#960050;background-color:#1e0010">|</span>
+</span></span></code></pre></div>
+    </div>
     
     
 </div>
 
 
 
-    
 
         </main><footer class="footer">
     

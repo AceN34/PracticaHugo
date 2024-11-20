@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extendidoes on Web de Jorge</title>
+    <link>http://localhost:1313/extendido/</link>
+    <description>Recent content in Extendidoes on Web de Jorge</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 10:05:33 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/extendido/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extendido</title>
+      <link>http://localhost:1313/extendido/extendido/</link>
+      <pubDate>Fri, 04 Oct 2024 10:05:33 +0200</pubDate>
+      <guid>http://localhost:1313/extendido/extendido/</guid>
+      <description>&lt;h2 id=&#34;edición-extendida&#34;&gt;Edición extendida&lt;/h2&gt;&#xA;&lt;h3 id=&#34;listas&#34;&gt;Listas&lt;/h3&gt;&#xA;&lt;h4 id=&#34;lista-no-ordenada&#34;&gt;Lista no ordenada&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Elemento 1&lt;/li&gt;&#xA;&lt;li&gt;Elemento 2&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sub-elemento 2.1&lt;/li&gt;&#xA;&lt;li&gt;Sub-elemento 2.2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Elemento 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;lista-ordenada&#34;&gt;Lista ordenada&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Elemento 1&lt;/li&gt;&#xA;&lt;li&gt;Elemento 2&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Sub-elemento 2.1&lt;/li&gt;&#xA;&lt;li&gt;Sub-elemento 2.2&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Elemento 3&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;enlaces&#34;&gt;Enlaces&lt;/h3&gt;&#xA;&lt;h4 id=&#34;asi-se-insertan-enlaces&#34;&gt;Asi se insertan enlaces&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;texto-del-enlacehttpsejemplocom&#34;&gt;&lt;a href=&#34;https://ejemplo.com&#34;&gt;Texto del enlace&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;imágenes&#34;&gt;Imágenes&lt;/h3&gt;&#xA;&lt;h4 id=&#34;asi-se-insertan-imágenes&#34;&gt;Asi se insertan imágenes&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;texto-alternativorutadelaimagenjpg&#34;&gt;&lt;img src=&#34;ruta/de/la/imagen.jpg&#34; alt=&#34;Texto alternativo&#34;&gt;&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

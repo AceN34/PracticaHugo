@@ -23,9 +23,9 @@ url = "/markdown/"
 weight = 2
 
 [[menu.main]]
-name = "Intereses"
-pre = "<span data-feather='coffee'></span>"
-url = "/intereses/"
+name = "Videojuegos"
+pre = "<span data-feather='monitor'></span>"
+url = "/videojuegos/"
 weight = 3
 
 [[menu.main]]

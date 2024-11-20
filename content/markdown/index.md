@@ -1,9 +1,7 @@
 +++
 title = 'Markdown'
-type = "post"
-draft = false
 +++
-## Edición básica
+# Edición básica
 
 ### Titulos
 
@@ -41,7 +39,10 @@ Para ver el texto en negrita escribo
 Y se verá
 
 **Texto en negrita** texto normal
-{{<youtube _PPWWRV6gbA>}}
+
+---
+
+# Gráficos
 
 {{< mermaid >}}
 graph BT
@@ -57,3 +58,52 @@ Estudiante --> Estudiar{Decision}
 Estudiar -->|Si| Aprobar
 Estudiar -->|No| Suspender
 {{< /mermaid >}}
+
+---
+
+# Edición extendida
+
+## Listas
+#### Lista no ordenada
+- Elemento 1
+- Elemento 2
+    - Sub-elemento 2.1
+    - Sub-elemento 2.2
+- Elemento 3
+
+#### Lista ordenada
+1. Elemento 1
+2. Elemento 2
+    1. Sub-elemento 2.1
+    2. Sub-elemento 2.2
+3. Elemento 3
+---
+## Enlaces
+[CPIFP Los Enlaces](https://cpilosenlaces.com)
+```makefile
+[Texto del enlace](https://ejemplo.com)
+```
+---
+## Imágenes
+
+![](pngegg.png)
+```makefile
+![Texto alternativo](ruta/de/la/imagen)
+```
+
+### Tambien se pueden insertar videos de youtube
+{{<youtube _PPWWRV6gbA>}}
+
+---
+
+## Tablas
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| Dato 1    | Dato 2    | Dato 3    |
+| Dato A    | Dato B    | Dato C    |
+```makefile
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| Dato 1    | Dato 2    | Dato 3    |
+| Dato A    | Dato B    | Dato C    |
+```
