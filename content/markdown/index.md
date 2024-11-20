@@ -52,6 +52,15 @@ B --> E
 D --> E
 {{< /mermaid >}}
 
+Ejemplo:
+```markdown
+graph BT
+Navegador --Llama--> B[Servidor Web]
+C --> D
+B --> E
+D --> E
+```
+
 {{< mermaid >}}
 graph LR
 Estudiante --> Estudiar{Decision}
@@ -59,6 +68,13 @@ Estudiar -->|Si| Aprobar
 Estudiar -->|No| Suspender
 {{< /mermaid >}}
 
+Ejemplo:
+```markdown
+graph LR
+Estudiante --> Estudiar{Decision}
+Estudiar -->|Si| Aprobar
+Estudiar -->|No| Suspender
+```
 ---
 
 # Edición extendida
@@ -87,7 +103,7 @@ Estudiar -->|No| Suspender
 ## Imágenes
 
 ![](pngegg.png)
-```makefile
+```markdown
 ![Texto alternativo](ruta/de/la/imagen)
 ```
 
@@ -97,11 +113,11 @@ Estudiar -->|No| Suspender
 ---
 
 ## Tablas
-| Columna 1 | Columna 2 | Columna 3 |
-|-----------|-----------|-----------|
-| Dato 1    | Dato 2    | Dato 3    |
-| Dato A    | Dato B    | Dato C    |
-```makefile
+| Producto | Unidades | Precio |
+|----------|----------|--------|
+| Manzana  | 300      | 2,79 € |
+| Tomate   | 234      | 3,10 € |
+```markdown
 | Columna 1 | Columna 2 | Columna 3 |
 |-----------|-----------|-----------|
 | Dato 1    | Dato 2    | Dato 3    |
