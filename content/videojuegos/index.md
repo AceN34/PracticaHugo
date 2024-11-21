@@ -31,3 +31,9 @@ Pokémon es una de las sagas más populares de la historia sobre todo entre el p
 3. Tetris
    ![Tetris](/images/tetris.jpg)
    Tetris mas que una saga es un juego con mil versiones, además de ser el primer videojuego que existió en la historia, este juego marcó un antes y un  después y hasta la gente a la que no le gustan los videojuegos o no los juegan de normal, han llegado a probarlo.
+### Resumen
+| Puesto | Saga    | Ventas       |
+|--------|---------|--------------|
+| 1      | Mario   | 879 millones |
+| 2      | Pokémon | 440 millones |
+| 3      | Tetris  | 425 millones |
