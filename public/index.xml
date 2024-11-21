@@ -6,6 +6,14 @@
     <description>Recent content in Home on Web de Jorge</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 10:05:33 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PHP</title>
+      <link>http://localhost:1313/php/</link>
+      <pubDate>Fri, 04 Oct 2024 10:05:33 +0200</pubDate>
+      <guid>http://localhost:1313/php/</guid>
+      <description>&lt;h2 id=&#34;declarar-números-en-php&#34;&gt;Declarar números en PHP&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;DeclaracionNumerosPHP.png&#34; alt=&#34;Declaracion Números PHP&#34;&gt;&#xA;Así se declaran los números binario, octal y hexadecimal en php (0b, 0o, 0x)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;NumeroAleatorioPHPTransformar.png&#34; alt=&#34;Transformar Número Aleatorio&#34;&gt;&#xA;Y así podemos transformar un número aleatorio en PHP&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;NumeroLargo.png&#34; alt=&#34;Numero Largo&#34;&gt;&#xA;Podemos separar un número largo con _ para ayudarnos a leer el número y este se mostrará sin ellas en la página&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;NumeroLargoCientifico.png&#34; alt=&#34;Numero Largo Cientifico&#34;&gt;&#xA;Si el número es muy largo lo meterá en una fórmula científica donde perderemos algo de precisión, pero nos dirá cómo de largo es&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

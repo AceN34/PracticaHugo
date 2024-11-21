@@ -106,7 +106,7 @@ Estudiar -->|No| Suspender
 ```markdown
 ![Texto alternativo](ruta/de/la/imagen)
 ```
-
+---
 ### Tambien se pueden insertar videos de youtube
 {{<youtube _PPWWRV6gbA>}}
 
