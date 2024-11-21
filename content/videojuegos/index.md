@@ -2,7 +2,7 @@
 title = 'Videojuegos'
 draft = false
 +++
-En este apartado vamos a poder ver los videojuegos más populares tanto por saga como por videojuego individual
+En este apartado podremos ver los videojuegos más populares tanto por saga como por videojuego individual.
 
 1. Mario
    ![Mario](/images/mario.jpg)
