@@ -102,7 +102,7 @@ Estudiar -->|No| Suspender
 ---
 ## Imágenes
 
-![](pngegg.png)
+![Cara de sorpresa](pngegg.png)
 ```markdown
 ![Texto alternativo](ruta/de/la/imagen)
 ```
