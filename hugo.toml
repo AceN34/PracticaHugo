@@ -2,7 +2,7 @@ baseURL = 'https://acen34.github.io/PracticaHugo/'
 languageCode = 'en-us'
 title = 'Web de Jorge'
 
-theme = "gokarna-hugo-main"
+theme = "gokarna-hugo"
 
 [params]
 avatarAltText = "avatar"
@@ -44,3 +44,6 @@ weight = 5
     [markup.goldmark]
         [markup.goldmark.renderer]
             unsafe = true
+[module]
+    [[module.imports]]
+        path = 'gokarna-hugo'
