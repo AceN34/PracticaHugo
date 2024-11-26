@@ -1,4 +1,4 @@
-    baseURL = 'https://acen34.github.io/PracticaHugo/'
+baseURL = 'https://acen34.github.io/PracticaHugo/'
 languageCode = 'en-us'
 title = 'Web de Jorge'
 
@@ -19,25 +19,25 @@ weight = 1
 [[menu.main]]
 name = "Markdown"
 pre = "<span data-feather='code'></span>"
-url = "/markdown/"
+url = "markdown/"
 weight = 2
 
 [[menu.main]]
 name = "Videojuegos"
 pre = "<span data-feather='monitor'></span>"
-url = "/videojuegos/"
+url = "videojuegos/"
 weight = 3
 
 [[menu.main]]
 name = "TV"
 pre = "<span data-feather='tv'></span>"
-url = "/tv/"
+url = "tv/"
 weight = 4
 
 [[menu.main]]
 name = "PHP"
 pre = "<span data-feather='terminal'></span>"
-url = "/php/"
+url = "php/"
 weight = 5
 
 [markup]
